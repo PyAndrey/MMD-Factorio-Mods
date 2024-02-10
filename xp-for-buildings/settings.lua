@@ -238,7 +238,7 @@ data:extend({
         name = "exp_for_buildings_disable_assembling_machine",
 		order = "db",
         setting_type = "startup",
-        default_value = false
+        default_value = true
     }
     ,
     {
@@ -246,7 +246,7 @@ data:extend({
         name = "exp_for_buildings_disable_furnace",
 		order = "da",
         setting_type = "startup",
-        default_value = false
+        default_value = true
     }
     ,
     {
@@ -254,7 +254,7 @@ data:extend({
         name = "exp_for_buildings_disable_lab",
 		order = "dc",
         setting_type = "startup",
-        default_value = false
+        default_value = true
     },
     {
         type = "bool-setting",
